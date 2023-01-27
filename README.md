@@ -1,5 +1,7 @@
 # EX No.5.1.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
-## DATE:
+## DATE:27.01.2023
+## NAME:SACHIN SAGAR S
+## REG.NO:22009268
 
 ## AIM: 
 To create orthographic view of given 3D model
@@ -36,6 +38,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
+![EX5 1](https://user-images.githubusercontent.com/119475862/215100645-27a1166e-3f30-49a8-8856-3243e8dbcaf3.png)
 
 
 ## RESULT:
